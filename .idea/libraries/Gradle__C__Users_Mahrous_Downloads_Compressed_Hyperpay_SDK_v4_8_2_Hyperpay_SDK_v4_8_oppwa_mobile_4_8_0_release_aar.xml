@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: C./Users/Mahrous/Downloads/Compressed/Hyperpay SDK v4.8_2/Hyperpay SDK v4.8/oppwa.mobile-4.8.0-release.aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/c7a76ab4f6015c2b4e713046ce81a98d/transformed/jetified-oppwa.mobile-4.8.0-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c7a76ab4f6015c2b4e713046ce81a98d/transformed/jetified-oppwa.mobile-4.8.0-release/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c7a76ab4f6015c2b4e713046ce81a98d/transformed/jetified-oppwa.mobile-4.8.0-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

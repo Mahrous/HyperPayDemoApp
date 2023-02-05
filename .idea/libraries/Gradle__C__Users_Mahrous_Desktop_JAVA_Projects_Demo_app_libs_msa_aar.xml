@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: C./Users/Mahrous/Desktop/JAVA Projects/Demo/app/libs/msa.aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/fef55d9113c1cbd5176b6b8382587e9a/transformed/jetified-msa/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/fef55d9113c1cbd5176b6b8382587e9a/transformed/jetified-msa/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/fef55d9113c1cbd5176b6b8382587e9a/transformed/jetified-msa/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

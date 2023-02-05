@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: C./Users/Mahrous/Downloads/Compressed/Hyperpay SDK v4.8_2/Hyperpay SDK v4.8/ipworks3ds_sdk_deploy.aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/09788395780ed62755ea18b3402f6c97/transformed/jetified-ipworks3ds_sdk_deploy/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/09788395780ed62755ea18b3402f6c97/transformed/jetified-ipworks3ds_sdk_deploy/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/09788395780ed62755ea18b3402f6c97/transformed/jetified-ipworks3ds_sdk_deploy/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
